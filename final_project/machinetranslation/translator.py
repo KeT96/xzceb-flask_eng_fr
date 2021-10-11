@@ -34,5 +34,5 @@ def frenchToEnglish(frenchText):
 
 translated_En = frenchToEnglish(fr_text)
 
-print("en to fr text:",translated_Fr)
-print("fr to en text:",translated_En)
+#print("en to fr text:",translated_Fr)
+#print("fr to en text:",translated_En)
